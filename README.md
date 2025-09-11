@@ -33,4 +33,4 @@
 
 ---
 
-📫 Reach me: [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/fabian-andrés-mendoza-bravo-708496203))  | [Email](mailto:your@email.com)  
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/fabian-andrés-mendoza-bravo-708496203)  | [Email](mailto:fabianandresmendozabravo@gmail.com)  

@@ -22,7 +22,7 @@
 
 ## 🌟 Featured Projects  
 🔹 [Simulation Project](https://github.com/yourusername/simulation-project) – Python-based ai model that recognize engine parts  
-🔹 [Web Portfolio](https://github.com/yourusername/web-portfolio) – Personal portfolio website with HTML/CSS/JS/ANGULAR/REACT
+🔹 [Web Portfolio](https://github.com/yourusername/web-portfolio) – Personal portfolio website with HTML/CSS/JS/ANGULAR/REACT    
 🔹 [Kubernetes Deployment](https://github.com/yourusername/k8s-deployment) – Containerized apps using Kubernetes & Docker  
 
 ---

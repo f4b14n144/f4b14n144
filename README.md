@@ -1,8 +1,8 @@
 # Hi, I'm Fabian 👋  
 
-🎓 Computer Science Engineering student (ABET Accredited)  
+🎓 Computer Science Engineering student on Universidad Politecnica Salesiana Ecuador (ABET Accredited)  
 💻 Passionate about software development, electronics & cloud systems  
-🌍 Currently interning at a GovTech company in [Your City]  
+🌍 Currently interning at a GovTech company in Cuenca  
 🚀 Interested in backend, DevOps, simulation & applied AI  
 
 ---
@@ -21,8 +21,8 @@
 ---
 
 ## 🌟 Featured Projects  
-🔹 [Simulation Project](https://github.com/yourusername/simulation-project) – Python-based racing/physics simulation  
-🔹 [Web Portfolio](https://github.com/yourusername/web-portfolio) – Personal portfolio website with HTML/CSS/JS  
+🔹 [Simulation Project](https://github.com/yourusername/simulation-project) – Python-based ai that recognize engine parts  
+🔹 [Web Portfolio](https://github.com/yourusername/web-portfolio) – Personal portfolio website with HTML/CSS/JS/ANGULAR/REACT
 🔹 [Kubernetes Deployment](https://github.com/yourusername/k8s-deployment) – Containerized apps using Kubernetes & Docker  
 
 ---

@@ -21,7 +21,7 @@
 ---
 
 ## 🌟 Featured Projects  
-🔹 [Simulation Project](https://github.com/yourusername/simulation-project) – Python-based ai that recognize engine parts  
+🔹 [Simulation Project](https://github.com/yourusername/simulation-project) – Python-based ai model that recognize engine parts  
 🔹 [Web Portfolio](https://github.com/yourusername/web-portfolio) – Personal portfolio website with HTML/CSS/JS/ANGULAR/REACT
 🔹 [Kubernetes Deployment](https://github.com/yourusername/k8s-deployment) – Containerized apps using Kubernetes & Docker  
 
@@ -33,4 +33,4 @@
 
 ---
 
-📫 Reach me: [LinkedIn](https://linkedin.com/in/your-link) | [Portfolio](https://your-portfolio.com) | [Email](mailto:your@email.com)  
+📫 Reach me: [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/fabian-andrés-mendoza-bravo-708496203))  | [Email](mailto:your@email.com)  

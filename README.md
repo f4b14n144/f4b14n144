@@ -1,4 +1,4 @@
-# Hi, I'm Fabian 👋  
+# Hi, I'm Fabian Andres Mendoza Bravo 👋  
 
 🎓 Computer Science Engineering student on Universidad Politecnica Salesiana Ecuador (ABET Accredited)  
 💻 Passionate about software development, electronics & cloud systems  

@@ -28,8 +28,8 @@
 ---
 
 ## 📊 GitHub Stats  
-![Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=f4b14n144&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f4b14n144&layout=compact&theme=tokyonight)  
 
 ---
 
